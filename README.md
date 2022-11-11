@@ -1,2 +1,2 @@
 # php_training
-CURD operation using php and phpMyAdnim
+CRUD operation using php and phpMyAdnim
